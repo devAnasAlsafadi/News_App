@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 67,
+-"articles": [
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Sarah Nassauer",
+"title": "Walmart Posts Strong Earnings as Shoppers Look for Discounts - The Wall Street Journal",
+"description": "Retailer says it is gaining market share in grocery, gives cautious outlook",
+"url": "https://www.wsj.com/articles/walmart-posts-strong-sales-earnings-as-shoppers-look-for-discounts-56bc82ec",
+"urlToImage": "https://images.wsj.net/im-723489/social",
+"publishedAt": "2023-02-21T16:11:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Caitlin McCabe, Bob Henderson",
+"title": "Stocks Fall on Interest-Rate Concerns - WSJ - The Wall Street Journal",
+"description": "JPMorgan strategists warn this quarter could mark U.S. equities’ high for the year",
+"url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-02-21-2023-a7067caf",
+"urlToImage": "https://images.wsj.net/im-728672/social",
+"publishedAt": "2023-02-21T15:18:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Chris Isidore",
+"title": "Home Depot to spend $1 billion more on hourly workers - CNN",
+"description": "Home Depot said it will increase pay and benefits for front line hourly staff by $1 billion this year, another sign of a tighter labor market and rising wages across the US economy.",
+"url": "https://www.cnn.com/2023/02/21/business/home-depot-earnings-hourly-pay/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230221111908-home-depot-employee-file-2022-restricted.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-02-21T15:17:00Z",
+"content": "Home Depot said it will increasepay and benefits for front line hourly staff by $1 billion this year, another sign of a tighter labor market and rising wages across the US economy.\r\nThe home improvem… [+3107 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "UK economy's unexpected bounce spurs more BoE rate hike talk - Reuters UK",
+"description": "Britain looks on course to sidestep a long recession after a survey showed a surprise return to growth by businesses this month, raising the likelihood of another Bank of England interest rate hike in March.",
+"url": "https://www.reuters.com/world/uk/uk-business-activity-unexpectedly-rebounds-february-flash-pmi-2023-02-21/",
+"urlToImage": "https://www.reuters.com/resizer/8tn6MCV3RSwRSacp1fzlUkK9_K8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AZYJLYVYFZKPDDN6FZXFAKTLI4.jpg",
+"publishedAt": "2023-02-21T15:16:00Z",
+"content": "LONDON, Feb 21 (Reuters) - Britain looks on course to sidestep a long recession after a survey showed a surprise return to growth by businesses this month, raising the likelihood of another Bank of E… [+2872 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Reuters",
+"title": "U.S. existing home sales fall in January, but pace slowing - CNBC",
+"description": "U.S. existing home sales dropped to a more than 12-year low in January, but the pace of decline slowed.",
+"url": "https://www.cnbc.com/2023/02/21/us-existing-home-sales-fall-in-january-but-pace-slowing.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107004257-1642718864795-gettyimages-1365926528-dsc06373_2022012035047567.jpeg?v=1676992208&w=1920&h=1080",
+"publishedAt": "2023-02-21T15:10:08Z",
+"content": "U.S. existing home sales dropped to the lowest level in more than 12 years in January, but the pace of decline slowed, raising cautious optimism that the housing market slump could be close to reachi… [+4087 chars]"
+},
+-{
+-"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Danielle Wiener-Bronner",
+"title": "Howard Schultz: Unions 'a manifestation of a much bigger problem' - CNN",
+"description": "Fifteen years ago, Howard Schultz reprised his role as Starbucks CEO, returning to the helm to help put the struggling company back on course. At the time, the coffee chain was flailing, facing growing competition, cooling customer interest and contending wit…",
+"url": "https://www.cnn.com/2023/02/21/business/howard-schultz-unions/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230220135046-restricted-howard-schultz-0913-file.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-02-21T15:00:00Z",
+"content": "Fifteen years ago, Howard Schultz reprised his role as Starbucks CEO, returning to the helm to help put the struggling company back on course. At the time, the coffee chain was flailing, facing growi… [+8179 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "Judge to hear final arguments in trial over Musk's $56 billion Tesla pay - Reuters",
+"description": "Lawyers for Elon Musk and a Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> investor will make closing arguments on Tuesday in a trial over his $56 billion pay package and whether it fueled the electric carmaker's gro…",
+"url": "https://www.reuters.com/legal/judge-hear-final-arguments-trial-over-musks-56-bln-tesla-pay-2023-02-21/",
+"urlToImage": "https://www.reuters.com/resizer/JbA2k26pXIVpeSFVYLuOjMjikCI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JTUSZH3ND5KETNHRJKORYX4EJE.jpg",
+"publishedAt": "2023-02-21T14:55:00Z",
+"content": "WILMINGTON, Del, Feb 21 (Reuters) - Lawyers for Elon Musk and a Tesla Inc (TSLA.O) investor will make closing arguments on Tuesday in a trial over his $56 billion pay package and whether it fueled th… [+2039 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Kitco NEWS"
+},
+"author": "http://www.facebook.com/kitconews",
+"title": "Gold price drops below $1850 as flash PMI data rises more than expected in February - Kitco NEWS",
+"description": "(Kitco News) - The gold market is struggling to hold its ground in neutral territory as both the U.S. service and manufacturing sectors improved more than expected, highlighting further resilience in economic activity.",
+"url": "https://www.kitco.com/news/2023-02-21/Gold-price-drops-below-1-850-as-flash-PMI-data-rises-more-than-expected-in-February.html",
+"urlToImage": "https://www.kitco.com/news/2020-10-23/images/Analyzing_Charts_Pen.jpg",
+"publishedAt": "2023-02-21T14:52:00Z",
+"content": "Editor's Note: With so much market volatility, stay on top of daily news! Get caught up in minutes with our speedy summary of today's must-read news and expert opinions. Sign up here! \r\n(Kitco News) … [+2235 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Gizmodo.com"
+},
+"author": "Kyle Barr",
+"title": "Facebook and Instagram Start Hawking Blue Badges Just Like Twitter - Gizmodo",
+"description": "As much as Twitter’s own Blue checkmark has failed to gain traction, Meta wants to incentivize subscriptions with more traction in the apps' algorithms.",
+"url": "https://gizmodo.com/facebook-instagram-meta-blue-badges-zuckerberg-1850139504",
+"urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f3331b361776f4b3a02287d05af57a31.jpg",
+"publishedAt": "2023-02-21T14:48:00Z",
+"content": "With Elon Musks Twitter making an absolute mess with paid verification and Twitter Blue, rival Meta has stepped up to the plate with a similarly ludicrous plan to have users pay for the privilege of … [+3923 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "The Times of Israel"
+},
+"author": null,
+"title": "Shekel heads to 3-year low, government bonds slip after vote on judiciary changes - The Times of Israel",
+"description": "Investor concern mounts after first piece of legislation that would weaken country's legal system passes its first vote in Knesset",
+"url": "https://www.timesofisrael.com/shekel-heads-to-3-year-low-government-bonds-slip-after-vote-on-judiciary-changes/",
+"urlToImage": "https://static.timesofisrael.com/www/uploads/2022/01/F181225ASHFF10-1024x640.jpg",
+"publishedAt": "2023-02-21T14:43:27Z",
+"content": "The shekel dropped more than 2% and government bonds and shares slid in Tel Aviv on Tuesday after the Knesset passed the first reading of a bill to make contentious changes to the judiciary system.\r\n… [+4371 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "DTN The Progressive Farmer"
+},
+"author": "Todd Hultman",
+"title": "Inflation Reports Put Interest Rates Back on The Rise - DTN The Progressive Farmer",
+"description": "Last week's consumer and producer price reports reminded traders more rate hikes are likely ahead, a simmering bearish concern for commodity prices.",
+"url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2023/02/21/inflation-reports-put-interest-rates",
+"urlToImage": "https://www.dtnpf.com/mydtn-public-core-portlet/servlet/GetStoredImage?category=CMS&symbolicName=2023g21-tech-spkg.png",
+"publishedAt": "2023-02-21T14:31:00Z",
+"content": "P[] D[0x0] M[0x0] OOP[F] ADUNIT[] T[]\r\n10-YEAR T-NOTE YIELDS:\r\nAfter a three-month reprieve from the upward procession of interest rates, rates on 10-year T-Notes pushed up from 3.74% to 3.83% in the… [+2411 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Sarah Min",
+"title": "Shares of this little-known footwear company can rally more than 30%, Piper Sandler says - CNBC",
+"description": "The firm upgraded the stock to overweight from neutral following a preannouncement from this footwear company that bolstered confidence in the stock.",
+"url": "https://www.cnbc.com/2023/02/21/shares-of-this-little-known-footwear-company-can-rally-more-than-30percent-piper-sandler-says.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107191221-1675873736576-gettyimages-1464171913-dscf5763_e75044be-5137-41be-ba4b-e10b4343dab9.jpeg?v=1676989791&w=1920&h=1080",
+"publishedAt": "2023-02-21T14:29:51Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Carlos Waters",
+"title": "Wall Street has purchased hundreds of thousands single-family homes since the Great Recession. Here's what that means for rental prices - CNBC",
+"description": "Corporations backed by private equity groups like Blackstone and Pretium Partners bought tens of thousand of homes across the U.S. Sun Belt.",
+"url": "https://www.cnbc.com/2023/02/21/how-wall-street-bought-single-family-homes-and-put-them-up-for-rent.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107087575-1657644523853-gettyimages-1241033508-US_HOUSING_MARKET.jpeg?v=1676989688&w=1920&h=1080",
+"publishedAt": "2023-02-21T14:28:08Z",
+"content": "Institutional investors may control 40% of U.S. single-family rental homes by 2030, according to MetLife Investment Management. And a group of Washington, D.C., lawmakers believe that Wall Street nee… [+2619 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Decrypt"
+},
+"author": "Liam J. Kelly",
+"title": "MATIC Drops 6% as Polygon Labs Slashes Headcount by 20% - Decrypt",
+"description": "As part of a larger consolidation first announced on January 11, Polygon Labs today announced it would be laying off 100 employees.",
+"url": "https://decrypt.co/121820/polygon-labs-slashes-headcount-20-consolidation-process",
+"urlToImage": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/polygon-shutterstock-tokens-gID_4.png@png",
+"publishedAt": "2023-02-21T14:17:50Z",
+"content": "Polygon Labs, the group of companies behind the eponymously-named blockchain network, announced it would be cutting its headcount by 20%, per a blog post.\r\nThe 100 employees that have been laid off w… [+1778 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Anchorage Daily News"
+},
+"author": "Dominic Gates",
+"title": "After Alaska Airlines planes bump runway while taking off from Seattle, a scramble to 'pull the plug' - Anchorage Daily News",
+"description": "Alaska’s flight operations staff quickly realized that a software bug was sending bad takeoff weight data to its crews. They immediately figured out a workaround and normal flying resumed.",
+"url": "https://www.adn.com/alaska-news/aviation/2023/02/20/after-alaska-airlines-planes-bump-runway-a-scramble-to-pull-the-plug/",
+"urlToImage": "https://www.adn.com/resizer//m-F9nwguqQVfBYkO_asf6nxeTqk=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/TAM7V2E37VGGPG7LGGRBAR4NE4.jpg",
+"publishedAt": "2023-02-21T14:03:09Z",
+"content": "A Boeing 737-900, Alaska Airlines jet, flies over Des Moines, Washington, as it comes in for a landing at Seattle-Tacoma International Airport Monday, Aug. 24, 2020. (Ellen M. Banner/The Seattle Time… [+9456 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "David Hollerith",
+"title": "Coinbase earnings: Revenue declines likely continued to cap off 2022 - Yahoo Finance",
+"description": "Investors expect Coinbase's business continued to shrink in the final quarter of 2022 as the latest Crypto Winter and a raft of enforcement actions weighed...",
+"url": "https://finance.yahoo.com/news/coinbase-earnings-revenue-declines-likely-continued-to-cap-off-2022-135925803.html",
+"urlToImage": "https://s.yimg.com/ny/api/res/1.2/UJ_d3g7V3GjJi3jAppVDSw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-04/b8f222c0-9d46-11eb-bbfe-46359559a7cf",
+"publishedAt": "2023-02-21T13:59:25Z",
+"content": "Coinbase Global (COIN) is set to report quarterly results after the market close on Tuesday.\r\nAnalysts expect the company to report a precipitous decline revenue from last year as crypto trading volu… [+3056 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Benzinga"
+},
+"author": "Adam Eckert",
+"title": "Tesla Is Driving Sigma Lithium Stock Higher Today: What's Going On? - Sigma Lithium (NASDAQ:SGML) - Benzinga",
+"description": "Sigma Lithium Corp (NASDAQ: SGML) shares are trading higher Tuesday following reports that Tesla Inc (NASDAQ: TSLA) is considering a bid for the battery metals mining compan",
+"url": "https://www.benzinga.com/m-a/23/02/30984852/tesla-is-driving-sigma-lithium-stock-higher-today-whats-going-on",
+"urlToImage": "https://cdn.benzinga.com/files/images/story/2023/02/21/0x0-model3_04.jpg?width=1200&height=800&fit=crop",
+"publishedAt": "2023-02-21T13:24:52Z",
+"content": "Sigma Lithium CorpSGML shares are trading higher Tuesday following reports that Tesla IncTSLA is considering a bid for the battery metals mining company. \r\nWhat Happened: According to a Bloomberg rep… [+810 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": "Ravikash",
+"title": "Medtronic stock rises on Q4 beat; revenue sees volume impact; tightens EPS outlook - Seeking Alpha",
+"description": "Medtronic (MDT) stock rose premarket on Tuesday after Q3 results beat estimates, provided Q4 revenue outlook and tightened its full year EPS guidance.Q3 non-GAAP EPS declined -4.4% Y/Y...",
+"url": "https://seekingalpha.com/news/3938301-medtronic-stock-rises-on-q4-beat-revenue-sees-procedure-volume-impact-tightens-eps-outlook",
+"urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1214270370/image_1214270370.jpg?io=getty-c-w750",
+"publishedAt": "2023-02-21T13:02:13Z",
+"content": "Sundry Photography/iStock Editorial via Getty Images\r\nMedtronic (NYSE:MDT) stock was trading higher premarket on Tuesday after Q3 results beat estimates, while the company provided Q4 revenue outlook… [+2241 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Nelson Aguilar",
+"title": "Instead of SMS 2FA, Use Your iPhone's Built-In Two-Factor Authentication - CNET",
+"description": "Text message two-factor authentication isn't as secure as this alternative.",
+"url": "https://www.cnet.com/tech/mobile/instead-of-sms-2fa-use-your-iphones-built-in-two-factor-authentication/",
+"urlToImage": "https://www.cnet.com/a/img/resize/6671893745cdf488f1b1955b3c16c3c3c73a8c0a/hub/2021/09/29/36484854-e8d3-45e5-ac27-ae5fbc2a2024/place-widgets-iphone.jpg?auto=webp&fit=crop&height=630&width=1200",
+"publishedAt": "2023-02-21T12:45:02Z",
+"content": "You should have two-factor authentication, also known as 2FA, for all of your online accounts -- whether it's for email, banking or social media. A lengthy and complicated password is a good start, b… [+3398 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Mike Calia",
+"title": "5 things to know before the stock market opens Tuesday - CNBC",
+"description": "Here are the most important news items that investors need to start their trading day.",
+"url": "https://www.cnbc.com/2023/02/21/5-things-to-know-before-the-stock-market-opens-tuesday-february-21.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107196547-16766519432023-02-17t162726z_2079160344_rc22dz9rp7if_rtrmadp_0_usa-stocks.jpeg?v=1676981297&w=1920&h=1080",
+"publishedAt": "2023-02-21T12:08:17Z",
+"content": "Traders work on the floor of the New York Stock Exchange (NYSE) in New York City, February 17, 2023.\r\nHere are the most important news items that investors need to start their trading day:\r\n1. Short … [+3892 chars]"
+}
+]
+}
